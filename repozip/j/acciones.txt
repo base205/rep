@@ -1,0 +1,49 @@
+ && isset($this->banner->mobileMonetization)
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Content-Footer-MobTab -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7957702093433757"
+     data-ad-slot="3891630022"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+?utm_source=bing&utm_medium=cpc&utm_campaign=youtube-to-mp3&utm_term={keyword}
+
+'/download/'.$this->uri.$this->statKey
+
+
+
+update `software` set showbanner = '1', synced= '0' where idPortal = 109;
+
+update  `software` 
+set showbanner = '0'
+WHERE idPortal = 109
+AND (
+name LIKE  '%google%'
+OR name LIKE  '%picasa%'
+OR name LIKE  '%chrome%'
+OR name LIKE  '%earth%'
+OR name LIKE  '%toolbar%'
+OR name LIKE  '%google drive%'
+OR name LIKE  '%atube%'
+OR name LIKE  '%youtube%'
+);
+
+SELECT * 
+FROM  `software` 
+WHERE idPortal = 109
+AND (
+name LIKE  '%google%'
+OR name LIKE  '%picasa%'
+OR name LIKE  '%chrome%'
+OR name LIKE  '%earth%'
+OR name LIKE  '%toolbar%'
+OR name LIKE  '%google drive%'
+OR name LIKE  '%atube%'
+OR name LIKE  '%youtube%'
+);
